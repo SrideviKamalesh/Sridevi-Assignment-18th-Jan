@@ -67,7 +67,7 @@ public static void main(String[] args) {
 	
 	driver.findElement(By.className("smallSubmit")).click();
 	
-
+        driver.close();
 	
 
 	
